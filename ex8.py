@@ -1,7 +1,6 @@
 #############################################################
 # FILE : ex8.py
-# WRITER : Sagi Kelner , skelner , 203666516
-# EXERCISE : intro2cs ex8 2018-2019
+# WRITER : sagikel
 # DESCRIPTION : Backtracking.
 #############################################################
 
