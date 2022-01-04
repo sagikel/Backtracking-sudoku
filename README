@@ -1,0 +1,33 @@
+skelner
+203666516
+Sagi Kelner
+
+I discussed the exercise with: None.
+
+==================
+=  Description:  =
+==================
+
+In this exercise, we practice recursion and backtracking.
+
+==========================
+=  Auxiliary functions:  =
+==========================
+
+#  *** PART 1 ***  #
+
+1. where_is_zero:
+    The purpose is to find and colette all of the zero cells in the sudoku.
+2. squares_to_list:
+    The purpose is to make a list of lists of all the cells that in single
+    square - for the square_check.
+3. solve_sudoku_helper:
+    The function doing the recursion and the backtracking.
+4. square_check:
+    The purpose is to check if a possible number can be in a square.
+
+#  *** PART 2 ***  #
+
+1. ******.helper:
+    All functions that have this extension perform the recursion and the
+    backtracking for it's main function.
